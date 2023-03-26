@@ -1,4 +1,19 @@
-This is the first text file i open using hyper terminal, 
+I Start making change in First Chapter 
 
-Create your own luck.
+For Checking 
 
+I make a branch of My git repo , it mean's you have an actual repo 
+
+BUT 
+
+If you want to make changes in your repo you and you also want that your actual code have to be their actual position 
+
+You have to make a branch of your Repo 
+
+to make a branch of your Repo 
+
+SNYTAX : git branch nameOfBranch 
+
+it help you to make changes  in your branch repo and if the changes are make according to your's 
+you can merg this changes with your master file or actual github repo 
+ 
