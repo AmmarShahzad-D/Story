@@ -1,1 +1,2 @@
-This the Second Chapter I Create and open Using Hyper Terminal, it would be a best Pracrtice to Work with Terminal as a Future best Web Developer 
+second chapter of my story Git Hub repo and this changes will be done on 
+the branch hithub repo 
